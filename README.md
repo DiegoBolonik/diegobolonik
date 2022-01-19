@@ -1,7 +1,7 @@
 ### Hi, i'm Diego 👋
 ![04](https://user-images.githubusercontent.com/79227339/150040324-f00e04d7-4b74-4eb7-b9b3-cc172d257a2f.jpg) 
 
-Who am I?
+## Who am I? 
 
 * 👩‍💻 Data Scientist 🥰.
 * 📊 Business consultant.
@@ -19,3 +19,7 @@ Who am I?
 * 🔮 Machine Learning. 
 * 📊 Data Visualization
 * 🌐 Linux 
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin]( https://www.linkedin.com/in/diego-de-morais-350a6a206/ )
