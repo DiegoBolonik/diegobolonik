@@ -5,10 +5,9 @@
 ## Who am I? 
 
 * 👩‍💻 Data Scientist 🥰.
-* 📊 Business consultant.
 * 📚 Researcher.
 * 👩‍🏫 Teacher.
-* 👩‍🎓 Licenced Mathematics -UNISUL.
+* 👩‍🎓 Licenced Mathematics - UNISUL.
 * 🎓 Pós-graduation in Data Analysis.
 
 ## Skills 👩‍💻
