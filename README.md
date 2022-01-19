@@ -18,3 +18,4 @@ Who am I?
 * 💻 JAVA
 * 🔮 Machine Learning. 
 * 📊 Data Visualization
+* 🌐 Linux 
