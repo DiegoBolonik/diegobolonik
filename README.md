@@ -1,8 +1,5 @@
 ### Hi, i'm Diego 👋
 
-<!--
-**DiegoBolonik/diegobolonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Who am I?
 
 * 👩‍💻 Data Scientist 🥰.
