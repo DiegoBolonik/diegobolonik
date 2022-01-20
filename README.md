@@ -28,3 +28,4 @@
 ## Projects
 
 * [Data Visualization]( https://github.com/DiegoBolonik/VisualizacaoDeDados ) 
+* [Churn Model]( https://github.com/DiegoBolonik/ChurnModel )
