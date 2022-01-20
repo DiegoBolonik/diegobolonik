@@ -24,3 +24,7 @@
 ## Find me around the world :earth_americas:
 
 *  [Linkedin]( https://www.linkedin.com/in/diego-de-morais-350a6a206/ )
+
+## Projects
+
+* [Data Visualization] (https://github.com/DiegoBolonik/VisualizacaoDeDados) 
