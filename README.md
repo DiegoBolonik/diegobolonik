@@ -29,3 +29,4 @@
 
 * [Data Visualization]( https://github.com/DiegoBolonik/VisualizacaoDeDados ) 
 * [Churn Model]( https://github.com/DiegoBolonik/ChurnModel )
+* [Preditive Analisys]( https://github.com/DiegoBolonik/AnalisePreditiva )
