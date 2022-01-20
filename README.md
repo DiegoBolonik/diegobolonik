@@ -27,4 +27,4 @@
 
 ## Projects
 
-* [Data Visualization] (https://github.com/DiegoBolonik/VisualizacaoDeDados) 
+* [Data Visualization]( https://github.com/DiegoBolonik/VisualizacaoDeDados ) 
