@@ -5,7 +5,7 @@
 
 ## Who am I? 
 
-* 👩‍💻 Data Scientist 🥰.
+* 👩‍💻 Data Scientist.
 * 📚 Researcher.
 * 👩‍🏫 Teacher.
 * 👩‍🎓 Licenced Mathematics - UNISUL.
