@@ -25,8 +25,8 @@
 
 *  [Linkedin]( https://www.linkedin.com/in/diego-de-morais-350a6a206/ )
 
-## Projects
+## My Projects
 
 * [Data Visualization]( https://github.com/DiegoBolonik/VisualizacaoDeDados ) 
 * [Churn Model]( https://github.com/DiegoBolonik/ChurnModel )
-* [Preditive Analisys]( https://github.com/DiegoBolonik/AnalisePreditiva )
+* [Predictive Analytics]( https://github.com/DiegoBolonik/AnalisePreditiva )
