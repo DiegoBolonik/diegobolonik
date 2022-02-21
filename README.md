@@ -30,4 +30,4 @@
 * [Data Visualization]( https://github.com/DiegoBolonik/VisualizacaoDeDados ) 
 * [Churn Model]( https://github.com/DiegoBolonik/ChurnModel )
 * [Predictive Analytics]( https://github.com/DiegoBolonik/AnalisePreditiva )
-* [Front-end-Django].( https://github.com/DiegoBolonik/DjangoLibrary )
+* [Front-end-Django]( https://github.com/DiegoBolonik/DjangoLibrary )
