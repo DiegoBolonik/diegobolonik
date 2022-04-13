@@ -27,6 +27,7 @@
 
 ## My Projects
 
+* [Django Frelaway App](https://github.com/DiegoBolonik/Frelaway)
 * [Data Visualization]( https://github.com/DiegoBolonik/VisualizacaoDeDados ) 
 * [Churn Model]( https://github.com/DiegoBolonik/ChurnModel )
 * [Predictive Analytics]( https://github.com/DiegoBolonik/AnalisePreditiva )
