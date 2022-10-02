@@ -1,7 +1,4 @@
 ### Hi, i'm Diego 👋
-![10](https://user-images.githubusercontent.com/79227339/150042533-28a41fd5-52b2-40de-bb05-af542f412720.jpg)
-
-
 
 ## Who am I? 
 
