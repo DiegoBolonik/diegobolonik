@@ -13,7 +13,7 @@
 * 🐍 Python.
 * 📈 R.
 * 🗄 SQL.
-* 💻 JAVA
+* 💻 Java Script/CSS
 * 🔮 Machine Learning. 
 * 📊 Data Visualization
 * 🌐 Linux 
