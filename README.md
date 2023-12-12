@@ -7,6 +7,7 @@
 * 👩‍🏫 Teacher.
 * 👩‍🎓 Licenced Mathematics - UNISUL.
 * 🎓 Pós-graduation in Data Analysis.
+* 🎓 Msc. Data Science - Nuclio Digital School
 
 ## Skills 👩‍💻
 
